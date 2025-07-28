@@ -18,8 +18,8 @@
 
 ## 🚀 Como Implementar
 
-1. Clone o repositório:
 ```bash
+1. Clone o repositório:
 git clone https://github.com/LucasViniciusBermudes/javascript-caracter-limiter.git
 
 # 2. Acesse a pasta do projeto
