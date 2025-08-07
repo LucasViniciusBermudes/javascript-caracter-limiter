@@ -29,4 +29,3 @@ cd javascript-caracter-limiter
 start index.html     # Windows
 open index.html      # macOS
 xdg-open index.html  # Linux
- usa isso como base
